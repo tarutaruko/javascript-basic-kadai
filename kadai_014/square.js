@@ -1,6 +1,6 @@
 const Total =(A)=> {
-  console.log(A*A);
+  return(A*A);
 }
-Total(10);
+console.log(Total(10));
 
 
